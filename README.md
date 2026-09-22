@@ -1,4 +1,4 @@
-<https://github.com/YOUR_USERNAME/learn-cicd-typescript-starter/actions/workflows/test.yml/badge.svg>
+https://github.com/YASHDEV42/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg>
 
 # learn-cicd-typescript-starter (Notely)
 
